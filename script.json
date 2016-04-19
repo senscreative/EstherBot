@@ -1,5 +1,6 @@
 {
-    "HELLO": "Greetings, welcome to the Sens Creative Bot. Type LEARN to get to know me.",
+    "HELLO": "Greetings, welcome to Sens Creative. Type LEARN to get to know me.",
+    "LEARN": "Awesome! Type PORTFOLIO to see samples of my work, or if you would rather learn about my interests and skills first, type SKILLS.",
     "TWITTER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: http://bit.ly/estherbot-tweet",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
